@@ -1,19 +1,19 @@
 {
-  "name": "pergunta-resposta-nodejs",
+  "name": "nodejs-ts",
   "version": "1.0.0",
-  "description": "Pacote para testar o funcionamento do NPM.",
-  "main": "app.js",
+  "description": "Projeto de teste do TypeScript.",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dand-e/node-ts"
+    "url": "git+https://github.com/dand-e/node-ts.git"
   },
   "keywords": [
-    "url",
-    "pergunta",
-    "resposta"
+    "typescript",
+    "usuario",
+    "criacao"
   ],
   "author": "Dan Vi",
   "license": "ISC",
@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/dand-e/node-ts#readme",
   "dependencies": {
-    "query-string": "^7.1.1"
+    "query-string": "^7.1.1",
+    "typescript": "^4.7.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.42"
   }
 }
