@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dand-e/hello-node.git"
+    "url": "git+https://github.com/dand-e/node-ts"
   },
   "keywords": [
     "url",
@@ -18,9 +18,9 @@
   "author": "Dan Vi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dand-e/hello-node/issues"
+    "url": "https://github.com/dand-e/node-ts#issues"
   },
-  "homepage": "https://github.com/dand-e/hello-node#readme",
+  "homepage": "https://github.com/dand-e/node-ts#readme",
   "dependencies": {
     "query-string": "^7.1.1"
   }
